@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-	<h1>Hi! I'm <a href="https://mathletedev.github.io">Joacker</a> 🐬 !</h1>
+	<h1>Hi! I'm Joacker</a> 🐬 !</h1>
 	<div>Rookie programmer; professional bug creator</div>
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
