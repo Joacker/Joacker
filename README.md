@@ -15,8 +15,8 @@
   <div>
     <img align="center" alt="nkPo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
     <img align="center" alt="nkMy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-    <img align="center" alt="nkMa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-plain.svg">
-    <img align="center" alt="nkMo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongo/mongodb-plain.svg">
+    <img align="center" alt="nkMa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariaDB-plain.svg">
+    <img align="center" alt="nkMo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongo/mongoDB-plain.svg">
   </div>
   
   ### *Services*
