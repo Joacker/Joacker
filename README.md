@@ -47,9 +47,10 @@
   <img align="center" alt="nkCp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="nkMa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="nkPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+  <img align="center" alt="nkTe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="nkSe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="nkCm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
-  <img align="center" alt="nkCm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg">
+  <img align="center" alt="nkGc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg">
 </div>
 
   
