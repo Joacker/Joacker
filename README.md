@@ -85,6 +85,16 @@
     <img align="center" alt="nkGg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg">
     <img align="center" alt="nkDi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
   </div>
+
+### *Distros*
+<div style="display: inline_block"><br>
+  <img align="center" alt="nkLi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+  <img align="center" alt="nkDe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+  <img align="center" alt="nkRe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg">
+  <img align="center" alt="nkFe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg">
+  <img align="center" alt="nkUb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="nkWi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+</div>
   
   ## My Social Media
  
