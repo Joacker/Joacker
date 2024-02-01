@@ -1,5 +1,7 @@
 ## Hi, I’m Joacker!
 
+<a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <div align="center">
   <a href="https://github.com/Joacker">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joacker&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
