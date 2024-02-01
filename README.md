@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Joacker">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joacker&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joacker&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
 </div>
     
 ### *Programming Languages*    
