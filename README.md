@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Joacker">
-    <img height="200em" width="10vw" src="https://github-readme-stats.vercel.app/api?username=joacker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="200em" width="200vw" src="https://github-readme-stats.vercel.app/api?username=joacker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
 ### *Programming Languages*    
