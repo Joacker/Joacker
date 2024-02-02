@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=464FE5&size=30&center=true&vCenter=true&width=900&height=80&lines=Hello+👋,+My+name+is+Joaquin+Fernandez;+Ingeniero+Civil+en+Informatica+y+Telecomunicaciones">
-
+<a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br><br><br>
 </p>
 
 <body style="background-color:WhiteSmoke;">
@@ -8,10 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/Joacker">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joacker&theme=holi&show_icons=true"/>
-    
-<a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br><br><br>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joacker&theme=holi&show_icons=true"/>  
 </div>
 
     
