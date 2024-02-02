@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=464FE5&size=30&center=true&vCenter=true&width=900&height=80&lines=Hello+👋,+My+name+is+Joaquin+Fernandez;+Ingeniero+Civil+en+Informatica+y+Telecomunicaciones">
 </p>
-
+<a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <div align="center">
