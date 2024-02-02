@@ -2,11 +2,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=464FE5&size=30&center=true&vCenter=true&width=900&height=80&lines=Hello+👋,+My+name+is+Joaquin+Fernandez;+Ingeniero+Civil+en+Informatica+y+Telecomunicaciones">
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joacker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 <div align="center">
   <a href="https://github.com/Joacker">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joacker&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joacker&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
 </div>
     
 ### *Programming Languages*    
